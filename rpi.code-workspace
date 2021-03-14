@@ -1,0 +1,15 @@
+{
+  "folders": [
+    {
+      "path": "../rpi-office-clock"
+    },
+    {
+      "path": "../rpi-rgb-led-matrix"
+    },
+  ],
+  "settings": {
+    "editor.tabSize": 2,
+    "workbench.editor.enablePreview": false,
+    "window.newWindowDimensions": "default",
+  }
+}
